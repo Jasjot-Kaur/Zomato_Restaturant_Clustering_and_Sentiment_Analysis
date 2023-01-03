@@ -1,6 +1,6 @@
 # Zomato_Restaturant_Clustering_and_Sentiment_Analysis
 
-# **Problem Statement**
+## **Problem Statement**
 
 __________
 
@@ -16,9 +16,9 @@ Data could be used for sentiment analysis. Also the metadata of reviewers can be
 
 ![image](https://user-images.githubusercontent.com/107803391/210419600-c9abb5b0-223e-4a10-9f38-d442a723211d.png)
 
-# **Attribute Information**
+## **Attribute Information**
 
-## **Zomato Restaurant names and Metadata**
+### **Zomato Restaurant names and Metadata**
 Use this dataset for clustering part
 
 1. Name : Name of Restaurants
@@ -33,7 +33,7 @@ Use this dataset for clustering part
 
 6. Timings : Restaurant Timings
 
-## **Zomato Restaurant reviews**
+### **Zomato Restaurant reviews**
 Merge this dataset with Names and Matadata and then use for sentiment analysis part
 
 1. Restaurant : Name of the Restaurant
